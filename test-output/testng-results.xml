@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleTest" duration-ms="203" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="203" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+      <class name="com.login.Tests.TestRunnerFile">
+        <test-method status="PASS" signature="a_method()[pri:1, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="a_method" duration-ms="62" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+        <test-method status="PASS" signature="b_method()[pri:2, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="b_method" duration-ms="4" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method status="PASS" signature="c_method()[pri:3, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="c_method" duration-ms="2" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method status="PASS" signature="d_method()[pri:4, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="d_method" duration-ms="3" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+        <test-method status="PASS" signature="e_method()[pri:5, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="e_method" duration-ms="3" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_method -->
+        <test-method status="PASS" signature="f_method()[pri:6, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="f_method" duration-ms="2" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f_method -->
+        <test-method status="PASS" signature="g_method()[pri:7, instance:com.login.Tests.TestRunnerFile@8e0379d]" name="g_method" duration-ms="3" started-at="2021-10-12T12:20:24Z" finished-at="2021-10-12T12:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g_method -->
+      </class> <!-- com.login.Tests.TestRunnerFile -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- SampleTest -->
+</testng-results>
