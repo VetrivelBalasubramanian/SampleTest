@@ -3,7 +3,11 @@
 <suite name="SampleTest">
    <test name="SampleTest"> 
       <classes>        	    
-               <class name="com.login.Tests.TestRunnerFile"></class>
+               <class name="com.login.Tests.TestRunnerFile">
+               <methods>
+               <include name="Sample_TestRunner"></include>
+               </methods>
+               </class>
       </classes>
    </test>
 </suite>

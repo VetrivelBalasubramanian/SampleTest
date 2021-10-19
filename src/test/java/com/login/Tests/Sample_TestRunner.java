@@ -2,7 +2,7 @@ package com.login.Tests;
 
 import org.testng.annotations.Test;
 
-public class TestRunnerFile {
+public class Sample_TestRunner {
 
 		@Test(priority=3)
 	    public void c_method(){
